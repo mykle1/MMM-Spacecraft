@@ -5,7 +5,7 @@
 * The spacecraft
 * Agency
 * Capability
-* Maiden maiden_flight
+* Maiden flight
 * Crew capacity
 * Pictures
 * Description
@@ -28,7 +28,7 @@
 
 
 ## Config.js entry and options
-
+```
 {
   disabled: false,
 module: 'MMM-Spacecraft',
@@ -43,3 +43,4 @@ config: {
     rotateInterval: 30 * 1000,      // 30 seconds
     }
 },
+```
